@@ -20,13 +20,13 @@ life in case of electric vehicles.
 ## Image seen from camera frame without perspective transformation:
 
 <p align="center">
-  <img src="Videocam_1.png" width="300"/>
+  <img src="images/Videocam_1.png" width="300"/>
 </p>
 
 ## Perspective Transformation:
 
 <p align="center">
-  <img src="Screenshot from 2017-10-18 00-06-11.png" width="350"/>
+  <img src="images/Screenshot from 2017-10-18 00-06-11.png" width="350"/>
 </p>
 
 Experiments have been carried out and data has been logged
@@ -53,13 +53,13 @@ The stop lanes are analogous to the signals in the below photo.
 ## Simulation Output:
 
 <p align="center">
-  <img src="Screenshot from 2018-02-01 00-05-34.png" width="650"/>
+  <img src="images/Screenshot from 2018-02-01 00-05-34.png" width="650"/>
 </p>
 
 ## Instantaneous Output seen in Terminal:
 
 <p align="center">
-  <img src="OP_screen.png" width="350"/>
+  <img src="images/OP_screen.png" width="350"/>
 </p>
 
 
